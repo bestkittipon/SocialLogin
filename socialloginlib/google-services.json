@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624568737673",
+    "project_id": "firebase-socialloginlib"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624568737673:android:9e1a141a5a962510",
+        "android_client_info": {
+          "package_name": "com.bsd.socialloginlib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624568737673-sljs1i984s7in37n043ro2h4ii8vfojj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bsd.socialloginlib",
+            "certificate_hash": "a5ba4b343ea28eccc00bd04fd19f14eae7dd815a"
+          }
+        },
+        {
+          "client_id": "624568737673-6aehou88s6q81g616fs2epk20dj8mg4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dnEPvwvGp0JhJjFJWI5WbqTPy5IoakE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

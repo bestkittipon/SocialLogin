@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bsd.socialloginlib.testsociallogin.MainActivity">
+
+    <Button
+        android:id="@+id/btnLoginFB"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Login_FB"
+        android:layout_centerVertical="true"/>
+
+    <Button
+        android:id="@+id/btnLogoutFB"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Logout_FB"
+        android:layout_below="@id/btnLoginFB"/>
+
+    <Button
+        android:id="@+id/btnLoginGG"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Login_G+"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:id="@+id/btnLogoutGG"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Logout_G+"
+        android:layout_below="@id/btnLoginGG"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>

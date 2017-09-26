@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialLoginLib</string>
+    <string name="facebook_app_id">2002607073349354</string>
+    <string name="fb_login_protocol_scheme">fb2002607073349354</string>
+    <!--<string name="client_id">624568737673-6aehou88s6q81g616fs2epk20dj8mg4k.apps.googleusercontent.com</string>-->
+    <string name="client_id">856298254441-vh4im9pa0qeooh0460dfth7usch563e6.apps.googleusercontent.com</string>
+</resources>
